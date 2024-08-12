@@ -1,0 +1,121 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.app{
+  width: 100%;
+}
+.display{
+  width: 90%;
+  margin:2% 5%;
+}
+.card{
+  width: 100%;
+  height: 410px;
+  background-color: rgb(233, 230, 230);
+  padding-top: 20px;
+  margin-bottom: 2%;
+}
+.product-details{
+  width: 80%;
+  margin: 2% 10%;
+  height: 200px;
+}
+.container{
+  width: 100%;
+  float: left;
+  border-bottom: 4px solid gainsboro;
+}
+.product-img{
+  width: 15%;
+  height: 180px;
+  float: left;
+}
+.product-desc{
+  width: 40%;
+  height: 200px;
+  margin-left: 48px;
+  float: left;
+  margin-right: 250px;
+}
+
+.title{
+  margin-bottom: 18px;
+}
+.spantag{
+  font-weight: bold;
+  display: inline;
+}
+.btn{
+  float: right;
+  
+}
+.arrow{
+    margin-bottom: 18px;
+}
+.desc{
+  margin-bottom: 10px;
+  height: 50px;
+  overflow:auto;
+}
+.btn1{
+  padding: 0.1px 5px;
+  margin-right: 7px;
+}
+.btn2{
+  margin-right: 5px;
+}
+.price{
+  font-weight: bold;
+}
+.btn3{
+  color: rgb(230, 9, 9);
+  border: none;
+  background-color: rgb(233, 230, 230);
+  font-weight: bold;
+  margin-top: 110px;
+  margin-left: 79px;
+}
+.subtotal{
+  padding-top: 20px;
+   float: left;
+   margin-bottom: 13px;
+}
+.innerdiv{
+  float: left;
+  padding-bottom: 20px;
+  border-bottom: 4px solid gainsboro;
+}
+
+.sub1{
+  opacity: 0.4;
+ display: inline;
+}
+.sub2{
+  margin-left: 815px;
+  font-weight: bold;
+}
+.sub3{
+  margin-left: 835px;
+  font-weight: bold;
+}
+.total{
+  float: left;
+  padding-top: 20px;
+}
+.total1{
+  float: left;
+}
+.tot1{
+  display: inline;
+  font-weight: bold;
+}
+.tot2{
+  font-weight: bold;
+  margin-left: 840px;
+}
+.perks{
+  color: rgb(230, 9, 9);
+  margin-left: 745px;
+  margin-top: 10px;
+}
